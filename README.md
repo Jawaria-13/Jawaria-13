@@ -20,7 +20,7 @@ Styling: Tailwind CSS, Styled Components, Sass, Framer Motion
 
 State & Data: TanStack Query (React Query), Redux Toolkit, Context API, Axios
 
-Tools & Testing: Git, GitHub, Vercel, Jest,
+Tools & Testing: Git, GitHub
 
 Design & UI: Figma (Design-to-Code), Radix UI, Headless UI, Lucide Icons
 
